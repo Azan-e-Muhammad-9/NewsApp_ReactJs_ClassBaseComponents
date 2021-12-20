@@ -1,0 +1,22 @@
+# NewsApp_ReactJs_ClassBaseComponents
+
+This News App is working with NewsApi from   https://newsapi.org/ 
+
+To use this app make sure NodeJs is installed on you PC/Laptop.
+
+Steps:
+
+1. After Download and unzip the folder open the folder in Vs-Code and in Vs-Code terminal type the below command to install node_modules
+
+--> npm install
+
+2. Create an account on newsapi.org and copy your API key
+
+3. create a file name (.env.local) in your project folder and add environment variable 
+   
+   --> REACT_APP_NEWS_API_KEY = paste your API-KEY without any quotes
+   
+   
+4.  type below command to run the App.
+
+--> npm run start
